@@ -1,4 +1,3 @@
-# hello-world
 # Hi 
 ## **This is my second go on the introduction bc the first one was done so I could undrstand the steps!**
 ---
