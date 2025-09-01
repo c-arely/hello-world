@@ -10,5 +10,5 @@ I learned coding with R and not necessarily Python but here we are lol Basically
 - I still dont know exactly what I am doing but I know I am excited to integrate my behavioral research background with analysis, coding and AI.
 
 
-
+Hi Cindy Arely! My name is Anushreeya and I look forward to working with you!
 
